@@ -36,3 +36,6 @@ htmlcov/
 .idea/
 *.swp
 *.swo
+
+# generated files
+dataset.json
